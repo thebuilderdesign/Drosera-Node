@@ -72,7 +72,9 @@ foundryup
 ```
 curl -fsSL https://bun.sh/install | bash
 ```
-
+```
+source /root/.bashrc
+```
 ---
 
 ## 2. Deploy Contract & Trap
