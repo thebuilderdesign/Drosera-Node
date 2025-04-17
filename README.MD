@@ -10,7 +10,7 @@ In this Guide, we contribute to Drosera testnet by:
 * 4 GB RAM
 * 20 GB Disk Space
 
-Official [Discord](https://discord.gg/UXAdpTYjgr)
+Official [Discord](https://discord.gg/ZkFfZKmq)
 
 ### Install Dependecies
 ```
