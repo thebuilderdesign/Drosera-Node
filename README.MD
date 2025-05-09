@@ -145,7 +145,7 @@ nano drosera.toml
 ```
 Add the following codes at the bottom of `drosera.toml`:
 ```toml
-change drosera_rpc with https://relay.testnet.drosera.io
+drosera_rpc = "https://relay.testnet.drosera.io"
 private_trap = true
 whitelist = ["Operator_Address"]
 ```
