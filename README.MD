@@ -143,7 +143,7 @@ drosera dryrun
 cd my-drosera-trap
 nano drosera.toml
 ```
-Add the following codes at the bottom of `drosera.toml`:
+Add or change the following codes at the bottom of `drosera.toml`:
 ```toml
 drosera_rpc = "https://relay.testnet.drosera.io"
 private_trap = true
